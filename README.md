@@ -1,5 +1,10 @@
 # Projeto Amigo Secreto
-Este projeto é um sorteio de amigo secreto usando JavaScript. Permite adicionar amigos, visualizar a lista e realizar sorteios aleatórios.
+Projeto de sorteador de nomes para amigo secreto, desenvolvido com base nas aulas de lógica de programação disponibilizadas pela Alura em parceria com o programa Oracle ONE. Este projeto permite adicionar amigos, visualizar a lista e realizar sorteios aleatórios utilizando JavaScript.
+
+## Tecnologias:
+- JavaScript
+- HTML
+- CSS
 
 ### Link para acesso do Projeto:
 https://projeto-amigo-secreto-psi.vercel.app/
